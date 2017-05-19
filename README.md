@@ -357,3 +357,7 @@ P.S.
 NOTE: I have NOT read "The Google Story" so my time frame may be off but the overall gist should be accurate:
 
 * http://www.thegooglestory.com/fromthebook.html
+
+## Special Thanks
+
+* Jason, Matthew, and Wayne for positive feedback.
