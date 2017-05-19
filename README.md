@@ -121,11 +121,15 @@ First thing to do is to generate "mip-maps":
 
 Source: https://www.gamedev.net/uploads/monthly_06_2011/ccs-8549-0-46062900-1308172686.gif
 
-Here is a simplified description:
+Here is a very simplified description:
 
-We keep scaling a picture smaller and smaller until we reach some threshold, say 32x32.
+We keep scaling a picture smaller and smaller until we reach some threshold, say 32x32, and analzyze that,
 
-Then we start analyzing EACH picture, in these 32x32 chunks.  We store "weights", or a normalized number between 0.0 and 1.0 for every "feature" it has.
+OR  
+
+we analyzing these 32x32 partial-images. 
+
+In either case we store "weights", or a normalized number between 0.0 and 1.0 for every "feature" it has.
 
 All these weights are like a "digital" fingerprint.  But instead of an single digital number like an 64-bit int, we have a "fuzzy" 32x32x3 (width x height x 3 channels red/green/blue) = 3,072 weights.
 
