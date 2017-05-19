@@ -229,6 +229,7 @@ Source: https://cdn3.tnwcdn.com/wp-content/blogs.dir/1/files/2017/05/Google-Lens
 There is the animated version on twitter:
 
 * [Meatball video](https://video.twimg.com/tweet_video/DAC2WPKXUAAPXdy.mp4)
+
 Source: https://twitter.com/google/status/864891667723300864
 
 Here is a quck analysis:
@@ -237,12 +238,12 @@ Here is a quck analysis:
 * ![Meatball 2](pics/2017/05/19/google_io_2017_lens_meatball_2.png)
 * ![Meatball 3](pics/2017/05/19/google_io_2017_lens_meatball_3.png)
 
-Google is solving _several_ hard problems here leveraging their infrastructure.
+Google is solving _several_ hard problems here leveraging their infrastructure:
 
 * Upload the Real-Life (TM) image to their TPU Cloud
 * Recognize the image by querying what known images it matches -- It may already be in the system via Google StreetView or may be an entirely new image
 * Classify what is IN the image -- it contains a business shop and sign
-* If GPS information is available query from Maps to narrow the search space down
+* If the user's Location Service is [enabled](https://support.google.com/accounts/answer/3467281?hl=en) on the device then send the GPS information to help query from Maps in order to narrow down the search space down
 * Retrieve the vendor's name, location, and other relevant info such as phone number
 * Associate the picture with textual information, and save this so the next query is faster
 * Send the contextual information back to the user
