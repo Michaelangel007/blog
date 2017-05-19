@@ -28,20 +28,20 @@ What Google brought to the table was [PageRank](https://en.wikipedia.org/wiki/Pa
 
 This was a game changer.
 
-(Perceived) Popularity of Truth was now more important the actual content!  It didn't matter if you what said was correct if no one believed it (linked to it.)  If you had some crappy inaccurate website, but everyone linked to it, maybe indirectly via "WebRings", you were getting the "traffic" and others weren't.
+(Perceived) Popularity of Truth was now more important the actual content!  It didn't matter if you what said was correct if no one believed it (linked to it.)  If you had some crappy inaccurate website, but everyone linked to it, maybe indirectly via cheesy "WebRings", you were getting the "traffic" and others weren't.
 
 Google started selling AdSense and AdWords. Companies sprung up overnight selling SEO (Search Engine Optimizations) -- guaranteeing that your company would rank higher via the right keywords.
-EVERYONE else was doing "Paid Inclusion" -- companies could literally "buy" their way to the top of the search results -- and people hated it since it wouldn't return relevant results like Google did.
+Everyone ELSE was doing "Paid Inclusion" -- companies could literally "buy" their way to the top of the search results -- and people hated it since it wouldn't return relevant results like Google did.
 
-* https://en.wikipedia.org/wiki/Paid_inclusion
 * https://en.wikipedia.org/wiki/AdSense
 * https://en.wikipedia.org/wiki/AdWords
+* https://en.wikipedia.org/wiki/Paid_inclusion
 
 Other companies started "focusing" on becoming a "Web Portal".  The justification was that: "If people are here for search they will want other things as well."
 
 Except, NO, I don't want/need all your other crap -- I _just_ want the results of my search.
 
-This is a timeline of how Yahoo jumped the shark while Google **remained focused on _just_ 1 thing:** Accurate Search Results:
+This is a timeline of how Yahoo jumped the shark while Google **remained focused on _just_ 1 thing, **Accurate Search Results:
 
 ![Yahoo vs Google Homepage history](pics/2017/05/19/yahoo_vs_google.png)
 
@@ -67,22 +67,22 @@ You can read more details here:
 * https://mapr.com/blog/5-google-projects-changed-big-data-forever/
 
 
-Having "mastered" text searching, Google went onto to indexing Pictures and Video -- but we didn't know it at the time as they quiet for almost a decade.
+Having "mastered" text searching Google went onto to indexing Pictures and Video -- but we didn't know it at the time as they were quiet for almost a decade.
 
-We'd hear rumors about Google being anal retentive over power usage.
+Every now and then we'd hear rumors about Google being anal retentive over power usage.
 
-In 2009 we finally got the answer. They had been building servers with their OWN DC power!
+In 2009 we finally got the answer. They had been building servers with **their OWN DC power!**
 
 * https://www.cnet.com/news/google-uncloaks-once-secret-server-10209580/
 
 
-> Google's big surprise: each server has its own 12-volt battery to supply power if there's a problem with the main source of electricity. The company also revealed for the first time that since 2005, its data centers have been composed of standard shipping containers--each with 1,160 servers and a power consumption that can reach 250 kilowatts.
+> Google's big surprise: each server has its own 12-volt battery to supply power if there's a problem with the main source of electricity. The company also revealed for the first time that since 2005, its data centers have been composed of standard shipping containers -- each with 1,160 servers and a power consumption that can reach 250 kilowatts.
 
-But _why_ was Google been completely crazy over power efficiency?
+But _why_ had Google been going completely crazy over power efficiency?
 
 * https://www.google.com/about/datacenters/efficiency/internal/
 
-We know that the indexing the web (and servicing requests) takes up a TON of (disk and memory) space.
+We know that the indexing the web (and servicing requests) takes up a TON of (disk and memory) space when you have millions of people performing search.
 
 If Google could cut the costs of electricity PER server that would add up.  Exactly how many serves does Google have??  In 2011, it was estimated they had 900,000 servers!
 
@@ -96,11 +96,11 @@ If Google could cut the costs of electricity PER server that would add up.  Exac
 > "Google's data center electricity use is about 0.01% of total worldwide electricity use and less than 1 percent of global data center electricity use in 2010,"
 
 
-WHOA. 
+**WHOA.**
 
 No wonder they were kicking the crap out of other search engines -- the others guys had a HUGE electric bill right from the get go !!
 
-In the vernacular: Google was able to SCALE.
+In the vernacular: Google was able to SCALE in **both** Hardware and Software.
 
 
 So they have a TON of storage, a TON of horsepower, but what does that have to do with searching Pictures, Video, and Speech?
@@ -144,9 +144,9 @@ Google has a write-up about identifying 32x32 images.
 
 We basically need to feed it a TON of images -- this is the training process.
 
-> In 2015 a many-layered CNN demonstrated the ability to spot faces from a wide range of angles, including upside down, even when partially occluded with competitive performance. The network trained on a database of 200,000 images that included faces at various angles and orientations and a further 20 million images without faces. They used batches of 128 images over 50,000 iterations
+> In 2015 a many-layered CNN demonstrated the ability to spot faces from a wide range of angles, including upside down, even when partially occluded with competitive performance. The network trained on a database of **200,000 images that included faces** at various angles and orientations and a further **20 million images without faces.** They used batches of 128 images over 50,000 iterations.
 
-Why all the training?
+Why ALL that training?
 
 * Too FEW data and you have false positives or Under-fitting.
 * Too MUCH (irrelevant) data and you have potentially run into [Over-fitting](https://en.wikipedia.org/wiki/Overfitting)
@@ -163,20 +163,21 @@ Oh wait, what's that GPU thing I keep hearing about?
 In 2005 GPU's started being used for "Machine Learning."
 https://www.computer.org/csdl/proceedings/icdar/2005/2420/00/24201115-abs.html
 
-GPU's contained to get faster and faster -- but they were also, ironically, TOO general purpose!  At the end of the day you need the right bits in the right space at the right time -- you don't need the FULL operations of the GPU. When you have a known problem, or formula, you can specialize the hardware.
+GPU's contained to get faster and faster -- but they were also, ironically, TOO general purpose!  At the end of the day you need the right bits in the right space at the right time -- you don't need the FULL operations of the GPU.
 
 ASICs (Application-specific integrated circuits) to the rescue!
 
-By cutting out all the crap you don't need you can build circuits dedicated to solving just ONE problem that are EXTREMELY efficient and low power.
+ASICs are just another word for _specialized hardware._
+
+By cutting out all the extra stuff you _don't need_ you can build minimal circuits dedicated to solving just the ONE (or few) problem -- this is EXTREMELY efficient and low power.
 
 https://en.wikipedia.org/wiki/Tensor_processing_unit
 
 > Tensor processing units (or TPUs) are application-specific integrated circuits (ASICs) developed specifically for machine learning. 
-> Compared to graphics processing units, they are designed explicitly for a higher volume of reduced precision computation (e.g. as little as 8-bit precision[1]) with higher IOPS per watt, and lack hardware for rasterisation/texture mapping.
+> Compared to graphics processing units, they are designed explicitly for a higher volume of reduced precision computation (e.g. as little as 8-bit precision) with higher IOPS per watt, and lack hardware for rasterisation/texture mapping.
 
 
-You'll notice that the BitCoin "miners" went through the same migration: CPU -> GPU -> ASIC a few years back.
-
+You'll notice that the BitCoin "miners" went through the same migration path a few years back as well: CPU -> GPU -> ASIC.  No one uses CPU's for BitCoin mining because searching/generating the hashes/key is S-L-O-W compared to ASICs.
 
 
 One of these little guys ...
@@ -202,7 +203,7 @@ https://www.blog.google/topics/google-cloud/google-cloud-offer-tpus-machine-lear
 > One of our new large-scale translation models used to take a full day to train on 32 of the best commercially-available GPUs—now it trains to the same accuracy in an afternoon using just one eighth of a TPU pod.
 
 
-180 teraflops/each!? WHOA.
+180 teraflops/each!? WOW.
 
 That partially answers the question of _"What the hell does Google NEED with this amount of computing power???"_
 
@@ -216,10 +217,12 @@ That partially answers the question of _"What the hell does Google NEED with thi
 * They have the visual road information with [StreetView](https://www.google.com/streetview/understand/)
 * They have a front end with Android
 * They can detect _different_ speakers giving voice commands
-* They are joining the front-end and back end when they demo "Google Lens" -- take a picture on your phone, and google will give the META information about it.  In order to LINK the visual information with the textual meta-information they need to ... drum-roll ... RECOGNIZE the image !
+* They are joining the front-end and back end when they demo "Google Lens" -- take a picture on your phone, and google will give the META information about it. 
+
+Now in order to LINK the visual information with the textual meta-information they need to first ... drum-roll ... RECOGNIZE the image!
 
 
-The keynote demoed Google Lens [@ 12:05](https://youtu.be/Y2VF8tmLFHw?t=725) of "The Meatball Shop"
+The keynote demoed Google Lens [@ 12:05](https://youtu.be/Y2VF8tmLFHw?t=725) showing "The Meatball Shop":
 
 * ![Google Lens "The Meatball Shop"](pics/2017/05/19/google_lens.jpg)
 
@@ -240,15 +243,15 @@ Here is a quck analysis:
 
 Google is solving _several_ hard problems here leveraging their infrastructure:
 
-* Upload the Real-Life (TM) image to their TPU Cloud
+* Upload the Real-Life (TM) image to their TPU Cloud -- they avoid the cost of physical network lines by leveraging ISPs (Internet Services Providers) existing infrastructure
 * Recognize the image by querying what known images it matches -- It may already be in the system via Google StreetView or may be an entirely new image
 * Classify what is IN the image -- it contains a business shop and sign
-* If the user's Location Service is [enabled](https://support.google.com/accounts/answer/3467281?hl=en) on the device then send the GPS information to help query from Maps in order to narrow down the search space down
+* If the user's Location Service is [enabled](https://support.google.com/accounts/answer/3467281?hl=en) on the device then send the GPS information to help query from Maps in order to narrow down the search space
 * Retrieve the vendor's name, location, and other relevant info such as phone number
 * Associate the picture with textual information, and save this so the next query is faster
 * Send the contextual information back to the user
 
-To the end user it looks like "magic."
+To the end user it looks like "Magic."
 
 
 
@@ -258,7 +261,7 @@ I believe that:
 
 **Google wants end-to-end control all the way from the back-end to the front-end.**
 
-They don't care (as much) about the front-end (Web Browser, Mobile, or Tablet) since they have all the back end stuff you want / need.
+They don't care (as much) about the front-end (Web Browser, Mobile, or Tablet) since they have all the back end stuff you think you want / need.
 
 
 In the [Keynote @5:22](https://youtu.be/Y2VF8tmLFHw?t=322) this picture of Sundar Pichai's keynote shows how Google's "World Domination" is coming along:
@@ -280,11 +283,15 @@ Let's "count" the "platforms" from left-to-right:
 
 Also notice how all of these are FREE.  Google knows that people don't want pay anything for apps.   This is Google's "end run around" Microsoft's control of the desktop.  Google's sub-conscious thinking is along these lines:
 
-> "Screw you Microsoft -- we'll just route around your shitty Windows ecosystem and _control everything else._"
+> "Screw you Microsoft -- we'll just re-route around your shitty Windows ecosystem and _control everything else._"
+
+This is just a modern paraphrasing of [John's Gilmore quote](https://en.wikiquote.org/wiki/John_Gilmore):
+
+* _"The Net interprets censorship as damage and routes around it."_
 
 This is why I believe Microsoft is ultimately doomed.
 
-When people say Bill Gates **completely** missed the Internet in 1995 -- that was the understatement of the CENTURY.  Google is looking at the END game here.  Microsoft doesn't even know the game was over before it started.
+When people say Bill Gates **completely** missed the Internet in 1995 -- that was the understatement of the CENTURY.  Google is looking at the END game here.  Microsoft doesn't even know the game was over before it started!
 
 By providing "convenience" of all sorts of information Google is data-mining the hell out of you.
 
@@ -298,8 +305,11 @@ http://www.businessinsider.com/google-launches-hands-free-payments-in-some-resta
 
 > Google wants you to be able to grab a slice of pizza without taking out your phone or wallet.
 
+It is a capitalists dream -- your "wearables" enable you to purchase anything conveniently.
 
-When Google first got into autonomous cars a lot of people were sratching their heads asking _"Huh! What? Why is a _search_ company getting into the _automotive_ industry? That makes no sense."_
+It doesn't stop there.
+
+When Google first got into autonomous cars a lot of people were sratching their heads asking _"Huh! What? Why is a **search company** getting into the **automotive industry?**That makes no sense."_
 
 ML (Machine Learnign) is the "bridge."
 
@@ -317,7 +327,7 @@ I'm not exactly sure if that the kind of world I want to live in -- where a sing
 
 What does this have to do with Microsoft?
 
-MS seems to be completely clueless about winning the battle and losing the entire war -- except they are losing the battle too!  They blew how many billions on Nokia again? 7.2 Billion plus ANOTHER ~billion !
+Microsoft seems to be completely clueless about winning the battle and losing the entire war -- except they are losing the battle too!  They blew how many billions on Nokia again? 7.2 Billion plus ANOTHER ~billion !
 
 https://www.theverge.com/2016/5/25/11766540/microsoft-nokia-acquisition-costs
 
@@ -328,7 +338,7 @@ Ironically, with the backlash of Windows 10's spyware and forced upgrades, Micro
 
 If I was Microsoft right now I would be VERY, VERY worried about being made completely irrelevant in 20 years.  
 
-The handwriting is already on the wall -- back in 2015 not one single Windows machine made the Top 500 super-computer list.
+The handwriting is already on the wall -- back in 2015 **not one single Windows machine made the Top 500** super-computer list.
 
 https://en.wikipedia.org/wiki/TOP500
 
@@ -341,12 +351,14 @@ The sad part -- Microsoft doesn't even know what the hell they are doing!  Alrea
 Of the major "computing" spaces *nix is winning big:
 
 * [ ] Desktop
-* [x] Consoles (FreeBSD is used in Sony's PS3 & PS4, Nintendo's Switch, Xbox One uses Windows)
-* [x] Mobile (Android has 2 Billion devices)
-* [x] Servers
-* [x] Supercomputers
+* [x] Consoles (FreeBSD is used in Sony's PS3 & PS4 and Nintendo's Switch; Xbox One uses Windows, obviously)
+* [x] Mobile (Android has 2 Billion devices powered by Linux.)
+* [x] Servers (66% powered by *nix)
+* [x] Supercomputers (100% powered by *nix)
 
-It is going to be REAL interesting in the next decade as Microsoft scrambles to not miss the boat.
+It is going to be REAL interesting in the next decade as Microsoft scrambles to not miss the boat.  Is it too late?
+
+Time will tell.
 
 
 You can leave feedback [here](https://github.com/Michaelangel007/blog/issues/1)
