@@ -309,7 +309,7 @@ It is a capitalists dream -- your "wearables" enable you to purchase anything co
 
 It doesn't stop there.
 
-When Google first got into autonomous cars a lot of people were sratching their heads asking _"Huh! What? Why is a **search company** getting into the **automotive industry?**That makes no sense."_
+When Google first got into autonomous cars a lot of people were sratching their heads asking _"Huh! What? Why is a **search company** getting into the **automotive industry for?** That makes no sense."_
 
 ML (Machine Learnign) is the "bridge."
 
