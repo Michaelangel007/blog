@@ -190,12 +190,10 @@ Source: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/tpu-V2-h
 
 * ![TPU Cloud](pics/2017/05/19/tpu_cloud.png)
 
-http://cdn.wccftech.com/wp-content/uploads/2017/05/tpu-v2-1.width-1000.png
+Source: http://cdn.wccftech.com/wp-content/uploads/2017/05/tpu-v2-1.width-1000.png
 
 
-
-
-This is what Google is saying about TPUs:
+This is what Google is saying about their 2nd generation TPUs:
 
 https://www.blog.google/topics/google-cloud/google-cloud-offer-tpus-machine-learning/
 
