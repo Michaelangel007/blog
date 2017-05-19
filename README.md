@@ -235,7 +235,7 @@ There is the animated version on twitter:
 
 Source: https://twitter.com/google/status/864891667723300864
 
-Here is a quck analysis:
+Here is a quick analysis:
 
 * ![Meatball 1](pics/2017/05/19/google_io_2017_lens_meatball_1.png)
 * ![Meatball 2](pics/2017/05/19/google_io_2017_lens_meatball_2.png)
