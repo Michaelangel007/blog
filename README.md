@@ -313,17 +313,22 @@ When Google first got into autonomous cars a lot of people were sratching their 
 
 ML (Machine Learnign) is the "bridge."
 
-This explains not only why but how Google is getting into autonomous cars. By having Google Maps they are able to leverage their back end services to get a foothold into the client in the car.
+This explains not only _why_ but **how** Google is getting into autonomous cars. By having Google Maps they are able to leverage their back end services to get a foothold into the client in the car.
 * https://www.android.com/auto/
 
-Picture this: In a decade Google will have a self-driving car that you can buy -- powered by Android Auto of course -- that knows when and where you go to work (Google Contacts), when and were you come home, what your schedule is (Google Calendar), when and where you travel (Google Maps), how to control all the appliances in your house (Google Home), what you watch (YouTube), who your friends are (GMail), and what they look like (because you uploaded all your photos to their free Picasso, er, Google Photos), what your bank account information is (Google Wallet), what your spending habits are, how to target specific ads to you, is always listening to you (Google Assistant) and knows how to reach your friends (Google Voice).
+Picture this: 
 
-Hmmm, I don't know about you **but that creeps the hell out of me.**
+In a decade Google will have a self-driving car that you can buy -- powered by Android Auto of course -- that knows when and where you go to work (Google Contacts), when and were you come home, what your schedule is (Google Calendar), when and where you travel (Google Maps), how to control all the appliances in your house (Google Home), what you watch (YouTube), who your friends are (GMail), and what they look like (because you uploaded all your photos to their free Picasso, er, Google Photos), what your bank account information is (Google Wallet), what your spending habits are, how to target specific ads to you, is always listening to you (Google Assistant), knows how to reach your friends (Google Voice), has a record of everything you have said, what brands and types of clothes you wear, how often you buy them, when you sleep (Android Wear), how often you awake -- and that's just TODAY'S _existing_ technology.
+
+Someone just has to _"connect the (meta) dots"._
+
+Hmmm, I don't know about you **but being tracked to that deep level that creeps the hell out of me.**
 
 I'm not exactly sure if that the kind of world I want to live in -- where a single company (*) has this much information over an individual.
 
 (*)  I'm not saying Apple is any better -- but so far they haven't played their hand like Google has.
 
+Are there any laws to guarantee Google doesn't abuse this consolidation of power?
 
 What does this have to do with Microsoft?
 
