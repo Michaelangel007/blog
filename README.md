@@ -28,7 +28,7 @@ What Google brought to the table was [PageRank](https://en.wikipedia.org/wiki/Pa
 
 This was a game changer.
 
-(Perceived) Popularity of Truth was now more important the actual content!  It didn't matter if you what said was correct if no one believed it (linked to it.)  If you some shitty website, but everyone linked to it, you were getting the "traffic" and others weren't.
+(Perceived) Popularity of Truth was now more important the actual content!  It didn't matter if you what said was correct if no one believed it (linked to it.)  If you had some crappy inaccurate website, but everyone linked to it, maybe indirectly via "WebRings", you were getting the "traffic" and others weren't.
 
 Google started selling AdSense and AdWords. Companies sprung up overnight selling SEO (Search Engine Optimizations) -- guaranteeing that your company would rank higher via the right keywords.
 EVERYONE else was doing "Paid Inclusion" -- companies could literally "buy" their way to the top of the search results -- and people hated it since it wouldn't return relevant results like Google did.
