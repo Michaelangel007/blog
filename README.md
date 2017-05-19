@@ -115,7 +115,7 @@ Here is an example:
 
 Let's say we want a computer to identity a picture.
 
-First thing would do is generate "mip-maps"
+First thing to do is to generate "mip-maps":
 
 ![mipmap](pics/2017/05/19/mipmap.png)
 
