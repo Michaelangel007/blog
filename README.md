@@ -41,7 +41,7 @@ Other companies started "focusing" on becoming a "Web Portal".  The justificatio
 
 Except, NO, I don't want/need all your other crap -- I _just_ want the results of my search.
 
-This is a timeline of how Yahoo jumped the shark while Google **remained focused on _just_ 1 thing, **Accurate Search Results:
+This is a timeline of how Yahoo jumped the shark while Google remained focused on _just_ 1 thing, **Accurate Search Results:**
 
 ![Yahoo vs Google Homepage history](pics/2017/05/19/yahoo_vs_google.png)
 
