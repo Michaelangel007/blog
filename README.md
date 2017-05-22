@@ -326,7 +326,7 @@ This explains not only _why_ but **how** Google is getting into autonomous cars.
 
 Picture this: 
 
-In a decade Google, or others, will have a self-driving car that you can buy -- powered by Android Auto of course -- that knows when and where you go to work (Google Contacts), when and were you come home, what your schedule is (Google Calendar), when and where you travel (Google Maps), how to control all the appliances in your house (Google Home), what you watch (YouTube), who your friends are (GMail), and what they look like (because you uploaded all your photos to their free Picasso, er, Google Photos), what your bank account information is (Google Wallet), what your spending habits are, how to target specific ads to you (Google Chrome), is always listening to you (Google Assistant), knows how to reach your friends (Google Voice), has a record of everything you have said, what brands and types of clothes you wear, how often you buy them, when you sleep (Android Wear), how often you awake -- and that's just TODAY'S _existing_ technology.
+In a decade Google, or others, will have a self-driving car that you can buy -- powered by Android Auto of course -- that knows when and where you go to work (Google Contacts), when and were you come home, what your schedule is (Google Calendar), when and where you travel (Google Maps), how to control all the appliances in your house (Google Home), what you watch (YouTube), who your friends are (GMail), and what they look like (because you uploaded all your photos to their free Picasso, er, Google Photos), what your bank account information is (Google Wallet), what your fingerprints are, what your spending habits are, how to target specific ads to you (Google Chrome), is always listening to you (Google Assistant), knows how to reach your friends (Google Voice), has a record of everything you have said, what brands and types of clothes you wear, how often you buy them, when you sleep (Android Wear), how often you awake -- and that's just TODAY'S _existing_ technology.
 
 Someone just has to _"connect the (meta) dots"._
 
@@ -337,6 +337,9 @@ I'm not exactly sure if that is the kind of world I want to live in -- where a s
 (*)  I'm NOT saying Apple is any better -- but so far they haven't played their hand like Google has.
 
 Are there any laws to guarantee Google doesn't abuse this consolidation of information (power)?
+
+I'm NOT saying technolog is bad -- technology _"just is" -- it be used or abused.  The bigger issues are security and privacy. What happens not _if_ but _when_ Google gets "hacked"?  How secure is this personal information?  How do we know our personal information won't be used against us?
+
 
 What does this have to do with Microsoft?
 
