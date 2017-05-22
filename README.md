@@ -181,7 +181,7 @@ https://en.wikipedia.org/wiki/Tensor_processing_unit
 > Compared to graphics processing units, they are designed explicitly for a higher volume of reduced precision computation (e.g. as little as 8-bit precision) with higher IOPS per watt, and lack hardware for rasterisation/texture mapping.
 
 
-You'll notice that the BitCoin "miners" went through the same migration path a few years back as well: CPU -> GPU -> ASIC.  No one uses CPU's for BitCoin mining because searching/generating the hashes/key is S-L-O-W compared to ASICs.
+You'll notice that the BitCoin "miners" went through the same migration path a few years back as well: CPU -> GPU -> ASIC.  No one uses CPU's for BitCoin mining because searching/generating the (Mega or Kilo) hashes/second is [S-L-O-W](https://en.bitcoin.it/wiki/Non-specialized_hardware_comparison) compared to [ASICs.](https://en.bitcoin.it/wiki/Mining_hardware_comparison)
 
 
 One of these little guys ...
@@ -322,7 +322,7 @@ This explains not only _why_ but **how** Google is getting into autonomous cars.
 
 Picture this: 
 
-In a decade Google will have a self-driving car that you can buy -- powered by Android Auto of course -- that knows when and where you go to work (Google Contacts), when and were you come home, what your schedule is (Google Calendar), when and where you travel (Google Maps), how to control all the appliances in your house (Google Home), what you watch (YouTube), who your friends are (GMail), and what they look like (because you uploaded all your photos to their free Picasso, er, Google Photos), what your bank account information is (Google Wallet), what your spending habits are, how to target specific ads to you, is always listening to you (Google Assistant), knows how to reach your friends (Google Voice), has a record of everything you have said, what brands and types of clothes you wear, how often you buy them, when you sleep (Android Wear), how often you awake -- and that's just TODAY'S _existing_ technology.
+In a decade Google will have a self-driving car that you can buy -- powered by Android Auto of course -- that knows when and where you go to work (Google Contacts), when and were you come home, what your schedule is (Google Calendar), when and where you travel (Google Maps), how to control all the appliances in your house (Google Home), what you watch (YouTube), who your friends are (GMail), and what they look like (because you uploaded all your photos to their free Picasso, er, Google Photos), what your bank account information is (Google Wallet), what your spending habits are, how to target specific ads to you (Google Chrome), is always listening to you (Google Assistant), knows how to reach your friends (Google Voice), has a record of everything you have said, what brands and types of clothes you wear, how often you buy them, when you sleep (Android Wear), how often you awake -- and that's just TODAY'S _existing_ technology.
 
 Someone just has to _"connect the (meta) dots"._
 
