@@ -16,7 +16,12 @@ In [Google's I/O 2017 keynote](https://www.youtube.com/watch?v=Y2VF8tmLFHw) and 
 ## 1. Some context and history.
 
 
-Google quickly rose to fame in ~1999 because "web searching" SUCKED.  You would get so many false positive and irrelevant links from a single search engine that you had to use a "meta search" engine that "crawled" a NUMBER of web searching sites and that would curate the links in common such as AltaVista, AskGeeves, DogPile, Lycos, WebCrawler, etc.
+Google quickly rose to fame in ~1999 because "web searching" SUCKED.  You would get so many false positive and irrelevant links from a single search engine that you had to use a "meta search" engine that:
+
+* "crawled" a NUMBER of web searching sites and
+* would curate the links in common.
+
+Popular meta-crawlers back in the day wereAltaVista, AskGeeves, DogPile, Lycos, WebCrawler, etc.
 
 * https://en.wikipedia.org/wiki/AltaVista
 * [When did Google become the be-all, end-all of search engines?](http://boards.straightdope.com/sdmb/showthread.php?t=532329)
