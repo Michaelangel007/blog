@@ -9,7 +9,7 @@ _"Dear Microsoft, You are about to get completely screwed over and you don't eve
 In [Google's I/O 2017 keynote](https://www.youtube.com/watch?v=Y2VF8tmLFHw) and other talks you may have noticed that Google has literally been hyping the hell out of:
 
 * ML (Machine Learning),
-* TPU's (tensor processing unit), and
+* TPU's (Tensor Processing Unit), and
 * TensorFlow (open source machine learning architecture and APIs).
 
 
