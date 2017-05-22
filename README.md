@@ -308,11 +308,11 @@ http://www.businessinsider.com/google-launches-hands-free-payments-in-some-resta
 
 > Google wants you to be able to grab a slice of pizza without taking out your phone or wallet.
 
-It is a capitalists dream -- your "wearables" enable you to purchase anything conveniently.
+It is a capitalist's dream -- your "wearables" enable you to purchase anything conveniently.
 
 It doesn't stop there.
 
-When Google first got into autonomous cars a lot of people were sratching their heads asking _"Huh! What? Why is a **search company** getting into the **automotive industry for?** That makes no sense."_
+When Google first got into autonomous cars a lot of people were sratching their heads asking _"Huh! What? Why is a **search company** getting into the **automotive industry**? That makes no sense."_
 
 ML (Machine Learnign) is the "bridge."
 
