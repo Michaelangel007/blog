@@ -206,7 +206,7 @@ https://www.blog.google/topics/google-cloud/google-cloud-offer-tpus-machine-lear
 > One of our new large-scale translation models used to take a full day to train on 32 of the best commercially-available GPUs—now it trains to the same accuracy in an afternoon using just one eighth of a TPU pod.
 
 
-180 teraflops/each!? WOW.
+180 teraflops EACH!? WOW. That's a LOT of number crunching.
 
 That partially answers the question of _"What the hell does Google NEED with this amount of computing power???"_
 
@@ -238,7 +238,7 @@ There is the animated version on twitter:
 
 Source: https://twitter.com/google/status/864891667723300864
 
-Here is a quick analysis:
+Here is a quick summary of how the image is recognized:
 
 * ![Meatball 1](pics/2017/05/19/google_io_2017_lens_meatball_1.png)
 * ![Meatball 2](pics/2017/05/19/google_io_2017_lens_meatball_2.png)
@@ -246,12 +246,12 @@ Here is a quick analysis:
 
 Google is solving _several_ hard problems here leveraging their infrastructure:
 
-* Upload the Real-Life (TM) image to their TPU Cloud -- they avoid the cost of physical network lines by leveraging ISPs (Internet Services Providers) existing infrastructure
+* Upload the Real-Life (TM) image to their TPU Cloud -- they avoid the cost of physical network lines by leveraging ISPs (Internet Services Providers) existing internet infrastructure
 * Recognize the image by querying what known images it matches -- It may already be in the system via Google StreetView or may be an entirely new image
 * Classify what is IN the image -- it contains a business shop and sign
 * If the user's Location Service is [enabled](https://support.google.com/accounts/answer/3467281?hl=en) on the device then send the GPS information to help query from Maps in order to narrow down the search space
-* Retrieve the vendor's name, location, and other relevant info such as phone number
-* Associate the picture with textual information, and save this so the next query is faster
+* Retrieve the vendor's name, location, and other relevant info such as phone number, rating, etc.
+* Associate the picture with textual information, and save this so the next query is faster for future queries
 * Send the contextual information back to the user
 
 To the end user it looks like "Magic."
@@ -286,7 +286,7 @@ Let's "count" the "platforms" from left-to-right:
 
 Also notice how all of these are FREE.  Google knows that people don't want pay anything for apps.   This is Google's "end run around" Microsoft's control of the desktop.  Google's sub-conscious thinking is along these lines:
 
-> "Screw you Microsoft -- we'll just re-route around your shitty Windows ecosystem and _control everything else._"
+> "Screw you Microsoft -- we'll just re-route around your Windows ecosystem and _control everything else._"
 
 This is just a modern paraphrasing of [John's Gilmore quote](https://en.wikiquote.org/wiki/John_Gilmore):
 
@@ -321,7 +321,7 @@ This explains not only _why_ but **how** Google is getting into autonomous cars.
 
 Picture this: 
 
-In a decade Google will have a self-driving car that you can buy -- powered by Android Auto of course -- that knows when and where you go to work (Google Contacts), when and were you come home, what your schedule is (Google Calendar), when and where you travel (Google Maps), how to control all the appliances in your house (Google Home), what you watch (YouTube), who your friends are (GMail), and what they look like (because you uploaded all your photos to their free Picasso, er, Google Photos), what your bank account information is (Google Wallet), what your spending habits are, how to target specific ads to you (Google Chrome), is always listening to you (Google Assistant), knows how to reach your friends (Google Voice), has a record of everything you have said, what brands and types of clothes you wear, how often you buy them, when you sleep (Android Wear), how often you awake -- and that's just TODAY'S _existing_ technology.
+In a decade Google, or others, will have a self-driving car that you can buy -- powered by Android Auto of course -- that knows when and where you go to work (Google Contacts), when and were you come home, what your schedule is (Google Calendar), when and where you travel (Google Maps), how to control all the appliances in your house (Google Home), what you watch (YouTube), who your friends are (GMail), and what they look like (because you uploaded all your photos to their free Picasso, er, Google Photos), what your bank account information is (Google Wallet), what your spending habits are, how to target specific ads to you (Google Chrome), is always listening to you (Google Assistant), knows how to reach your friends (Google Voice), has a record of everything you have said, what brands and types of clothes you wear, how often you buy them, when you sleep (Android Wear), how often you awake -- and that's just TODAY'S _existing_ technology.
 
 Someone just has to _"connect the (meta) dots"._
 
@@ -329,13 +329,13 @@ Hmmm, I don't know about you **but being tracked to that deep level that creeps 
 
 I'm not exactly sure if that the kind of world I want to live in -- where a single company (*) has this much information over an individual.
 
-(*)  I'm not saying Apple is any better -- but so far they haven't played their hand like Google has.
+(*)  I'm NOT saying Apple is any better -- but so far they haven't played their hand like Google has.
 
-Are there any laws to guarantee Google doesn't abuse this consolidation of power?
+Are there any laws to guarantee Google doesn't abuse this consolidation of information (power) ?
 
 What does this have to do with Microsoft?
 
-Microsoft seems to be completely clueless about winning the battle and losing the entire war -- except they are losing the battle too!  They blew how many billions on Nokia again? 7.2 Billion plus ANOTHER ~billion !
+Microsoft seems to be completely clueless about winning the battle and losing the entire war -- except they are losing the battle too!  They blew how many BILLIONS on buying Nokia again? 7.2 Billion plus ANOTHER ~billion !  And what do they have to show for it?  Nothing!
 
 https://www.theverge.com/2016/5/25/11766540/microsoft-nokia-acquisition-costs
 
@@ -352,7 +352,7 @@ https://en.wikipedia.org/wiki/TOP500
 
 > Since November 2015, no computer on the list runs Windows. 
 
-The sad part -- Microsoft doesn't even know what the hell they are doing!  Already 33% of Azure runs Linux.  While Microsoft is trying to cater to developers but they are so focused on a single tree that they have missed the forest being clearcut around them.
+The sad part -- Microsoft doesn't even know what the hell they are doing!  Already 33% of Azure runs Linux.  While Microsoft is _trying_ to cater to developers (You can run [native Linux apps inside Windows 10](https://www.youtube.com/watch?v=kJGqZHQzNRo) now they are so focused on _a single tree_ that they have missed the _entire forest being clearcut around them._
 
 * https://news.microsoft.com/bythenumbers/azure-virtual
 
