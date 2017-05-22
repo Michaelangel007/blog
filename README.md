@@ -364,7 +364,7 @@ The sad part -- Microsoft doesn't even know what the hell they are doing!  Alrea
 Of the major "computing" spaces *nix is winning big:
 
 * [ ] Desktop
-* [x] Consoles (FreeBSD is used in Sony's PS3 & PS4 and Nintendo's Switch; Xbox One uses Windows, obviously)
+* [x] Consoles (FreeBSD is used in Sony's PS3 & PS4 and Nintendo's Switch; Xbox One uses the Window's kernel obviously)
 * [x] Mobile (Android has 2 Billion devices powered by Linux.)
 * [x] Servers (66% powered by *nix)
 * [x] Supercomputers (100% powered by *nix)
