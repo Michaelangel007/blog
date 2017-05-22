@@ -48,7 +48,7 @@ This is a timeline of how Yahoo jumped the shark while Google remained focused o
 Source: https://blog.codinghorror.com/content/images/2014/May/05_yahoogle.png
 
 
-Google's popularity exploded almost the day it came online and by 2000 has sealed the deal. Gee, accurate search results go figure.  We'll come back to this point.
+Google's popularity exploded almost the day it came online and by 2000 had all but sealed the deal. Gee, accurate search results go figure.  We'll come back to this point.
 
 Due to the sheer expansion of the web --- there is a TON of data -- Google started running into a problem. How the hell do we:
 
@@ -169,11 +169,9 @@ https://www.computer.org/csdl/proceedings/icdar/2005/2420/00/24201115-abs.html
 
 GPU's contained to get faster and faster -- but they were also, ironically, TOO general purpose!  At the end of the day you need the right bits in the right space at the right time -- you don't need the FULL operations of the GPU.
 
-ASICs (Application-specific integrated circuits) to the rescue!
+ASICs (Application-specific integrated circuits) to the rescue!  ASIC is just another word for _specialized hardware._
 
-ASICs are just another word for _specialized hardware._
-
-By cutting out all the extra stuff you _don't need_ you can build minimal circuits dedicated to solving just the ONE (or few) problem -- this is EXTREMELY efficient and low power.
+By cutting out all the extra stuff you _don't need_ you can build _minimal_ circuits dedicated to solving just the ONE (or few) problem that you _do_ need -- this is EXTREMELY efficient and low power.
 
 https://en.wikipedia.org/wiki/Tensor_processing_unit
 
@@ -183,6 +181,7 @@ https://en.wikipedia.org/wiki/Tensor_processing_unit
 
 You'll notice that the BitCoin "miners" went through the same migration path a few years back as well: CPU -> GPU -> ASIC.  No one uses CPU's for BitCoin mining because searching/generating the (Mega or Kilo) hashes/second is [S-L-O-W](https://en.bitcoin.it/wiki/Non-specialized_hardware_comparison) compared to [ASICs.](https://en.bitcoin.it/wiki/Mining_hardware_comparison)
 
+Getting back to Google's hardware.
 
 One of these little guys ...
 
