@@ -347,6 +347,8 @@ https://www.theverge.com/2016/5/25/11766540/microsoft-nokia-acquisition-costs
 > Microsoft is taking another almost $1 billion hit on its failed Nokia acquisition today. The software maker is "streamlining" its smartphone business, writing off $950 million and cutting 1,850 jobs. 
 
 
+Google did [2 Billion Android devices](https://youtu.be/Y2VF8tmLFHw?t=390) in 6 years what Microsoft couldn't do in [20 years](https://en.wikipedia.org/wiki/Windows_Embedded_Compact).
+
 Ironically, with the backlash of Windows 10's spyware and forced upgrades, Microsoft is pushing people right into Google's hands.
 
 If I was Microsoft right now I would be VERY, VERY worried about being made completely irrelevant in 20 years.  
