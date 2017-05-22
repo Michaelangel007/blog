@@ -19,9 +19,9 @@ In [Google's I/O 2017 keynote](https://www.youtube.com/watch?v=Y2VF8tmLFHw) and 
 Google quickly rose to fame in ~1999 because "web searching" SUCKED.  You would get so many false positive and irrelevant links from a single search engine that you had to use a "meta search" engine that:
 
 * "crawled" a NUMBER of web searching sites and
-* would curate the links in common.
+* would _curate_ the links in common.
 
-Popular meta-crawlers back in the day wereAltaVista, AskGeeves, DogPile, Lycos, WebCrawler, etc.
+Popular meta-crawlers back in the day were AltaVista, AskGeeves, DogPile, Lycos, WebCrawler, etc.
 
 * https://en.wikipedia.org/wiki/AltaVista
 * [When did Google become the be-all, end-all of search engines?](http://boards.straightdope.com/sdmb/showthread.php?t=532329)
@@ -332,11 +332,11 @@ Someone just has to _"connect the (meta) dots"._
 
 Hmmm, I don't know about you **but being tracked to that deep level that creeps the hell out of me.**
 
-I'm not exactly sure if that the kind of world I want to live in -- where a single company (*) has this much information over an individual.
+I'm not exactly sure if that is the kind of world I want to live in -- where a single company (*) has this much information over an individual.
 
 (*)  I'm NOT saying Apple is any better -- but so far they haven't played their hand like Google has.
 
-Are there any laws to guarantee Google doesn't abuse this consolidation of information (power) ?
+Are there any laws to guarantee Google doesn't abuse this consolidation of information (power)?
 
 What does this have to do with Microsoft?
 
