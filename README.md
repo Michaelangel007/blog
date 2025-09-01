@@ -4,7 +4,7 @@
 
 Monday, September 1, 2025
 
-![VideoMaker44 showing An artificial intelligence extraterrestrial cyborg a humanoid alien with spaceship in the background](pics/2025/09/01/thumbnail.png)
+![VideoMaker44 showing An artificial intelligence extraterrestrial cyborg a humanoid alien with spaceship in the background](pics/2025/09/01/cyborg_thumbnail.png)
 
 Man always fears what he doesn't understand.
 
