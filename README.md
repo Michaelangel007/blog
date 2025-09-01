@@ -1,5 +1,122 @@
 # Michaelangel007's Blog
 
+# Robots, Aliens, and A.I. oh my! How a.i. and α.i. will make A.I. obsolete.
+
+Monday, September 1, 2025
+
+![VideoMaker44 showing An artificial intelligence extraterrestrial cyborg a humanoid alien with spaceship in the background](pics/2025/09/01/thumbnail.png)
+
+Man always fears what he doesn't understand.
+
+* In the ~1920's it was robots,
+* In the ~1950's it was aliens,
+* In the ~2020's it is A.I.
+
+These fears are/were based on ignorance and anthropomorphization.
+
+Movies are a "litmus test" of the consciousness of the mass populace aka collective consciousness. By the 2000's we had seen movies and mediums showing the other, positive side of robots and aliens. Popular examples include:
+
+* Superman (1938), Mork from Mork and Mindy (1978), E.T. (1982) were friendly aliens,
+* R2-D2 from Star Wars (1977) and WALL-E (2008) were friendly robots.
+
+There are of course lots of examples, some more popular, some less popular:
+
+* For robots earlier works include Gakutensoku (1928), Isaac Asimov's Robbie (1940), B9 Robot from Lost in Space (1965).
+* Other friendly aliens include: The Day The Earth Stood Still (1951), Encounters of the Third Kind (1977), Arrival (2016).
+
+First, we need to define some terms:
+
+* A.I. -- Artificial Ignorance (commonly MISLABELED as Artificial Intelligence)
+* a.i. -- Actual Intelligence
+* α.i. -- Alien Intelligence
+
+Today's tech companies are jumping on the A.I. bandwagon faster then the Crypto bros say "Trust me bro!" when pumping the latest shitcoin. This is due to:
+
+* The fines for piracy are considerable less than the shareholder value, and
+* It is easy to automate "training".
+
+See GamersNexus video "Piracy is for Trillion Dollar Companies | Fair Use, Copyright Law, & Meta AI" -- https://www.youtube.com/watch?v=sdtBgB7iS8c -- but we are getting ahead of ourselves.
+
+There are multiple problems with the current Artificial Ignorance fad.
+
+In a lot of ways it reminds me when photography took off. Charles Baudelaire in “Le Public Moderne et la Photographie” (The Modern Public and Photography) whining about "... has become art's most mortal enemy, ..." is the perfect example of archaic gate-keepers refusing to embrace the new medium. Ditto for HDR photography. Gee, history repeats itself. Who knew!
+
+Ignoring the common issues of AI "slop", bias, privacy, Intellectual "Property" concerns for the input and output, lack of accountability, lack of transparency, etc., the _other_ issues people don't normally talk about are:
+
+* A.I. has ZERO understanding, it is a gloried table lookup that predicts the next token. Manipulating tokens is NOT sufficient for intelligence. See Stephan Wolfram's excellent "What Is ChatGPT Doing … and Why Does It Work?" article from 2023 -- https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
+
+* It has no context. This is how you get nonsense like a person ordering "a large Mountain Dew" and the AI voice loops with "and what will you drink with that?" -- https://www.bbc.com/news/articles/ckgyk2p55g8o
+
+* Good-luck debugging the code it spews out!
+
+* Science -- by definition -- is amoral.  How do you "encode" morality into A.I.?
+
+LLMs (Large Language Models) are built upon a model of how we "think" the brain works. One of the problems with this model is that thought is non-local in the brain. You can research the problem of "non-local consciousness" if you want to go down this rabbit hole.
+
+People will also say "AI bad!" but the reality is A.I. is JUST another tool.  It is the COMPANIES MISUSING AI that is the problem, NOT the tool itself. Take for example CGTrader -- a popular marketplace website where artists can upload digital 3D Models. If you read the "General Terms and Conditions" you find this disgusting clause:
+
+> 18.5. For any Product/Content uploaded to the Site or otherwise submitted to CGTrader, the Seller grants and represents that he has the authority to grant to CGTrader a non-exclusive, worldwide, royalty-free, license in any medium now known or hereinafter invented to:
+
+> - use the Products for machine learning or training of neural network models, including generative AI, for the purposes of researching, creating, developing and testing new CGTrader's tools, features, services or technologies, which may be developed by CGTrader or with the help of its subcontractors or partners, unless the Seller opted out by licensing the Product offered for purchase under the licenses marked with “No AI”, while CGTrader shall always retain this license for Products offered as free download.
+
+If you offer a product as a free download CGTrader ALWAYS retains the right to use for training of AI?!?!
+
+Thankfully A.I. is doomed to fail to reach AGI (Artificial General Intelligence) due to it being built upon an incomplete and faulty foundation.  
+
+A reductive materialist approach will NEVER bridge the gap with the flawed assumption that you "need a brain for thought" due to the fact that Modern Scientists are ignorant of Life after Death.  You can't "add" intelligence or consciousness as a magical "emergent behavior" -- you need to START with it. 
+
+I.e. Bio-organic Computing.
+
+How do we know this?
+
+Consciousness IS the underlying foundation of reality; it is how we get The Placebo Effect. The greatest discovery of Science -- PROOF of Mind over Matter -- and it is basically ignored!  See "13 things that do not make sense" for how truly BIZARRE the Placebo Effect can get -- https://www.newscientist.com/article/mg18524911-600-13-things-that-do-not-make-sense/
+
+> Don’t try this at home. Several times a day, for several days, you induce pain in someone. You control the pain with morphine until the final day of the experiment, when you replace the morphine with saline solution. Guess what? The saline takes the pain away.
+
+> This is the placebo effect: somehow, sometimes, a whole lot of nothing can be very powerful. Except it’s not quite nothing. When Fabrizio Benedetti of the University of Turin in Italy carried out the above experiment, he added a final twist by adding naloxone, a drug that blocks the effects of morphine, to the saline. The shocking result? The pain-relieving power of saline solution disappeared.
+
+Eventually Bio-organic computer will (re)discover Silicon Consciousness. This is a.i. or Actual Intelligence.  It does NOT have the same behaviors as humans so projecting fear such as it "a.i. will take over the world!" is just that -- a projection based on inexperience.
+
+Our questions and definition of:
+
+* "What is intelligence?"
+* "What is consciousness?"
+
+... will be forced to expand with this discovery.  (One of the current fundamental problems in Science is that there is NO test for Consciousness so you can't "prove" something is conscious.)
+
+Likewise, by 2050 it will be common knowledge that we are not alone.  Scientists will again be forced to expand their definition of intelligence to include α.i. -- Alien Intelligence. All the atheists should pay attention at this point: "If Religion is a 'man-made' institution then WHY do SO many (advanced) aliens ALSO have Religion?"
+
+The answer:
+
+Religion is kindergarten Spirituality.
+
+That is:
+
+* Religion is one person telling another what they SHOULD do to understand the Divine,
+* Spirituality is one person telling another what they COULD do to understand the Divine.
+
+But I digress.
+
+All the fear-mongering about:
+
+* "AI will enslave us all!" is completely FALSE,
+* "Companies are abusing AI!" is indeed TRUE.
+
+We need to be mature and separate the fear and hype from the reality.
+
+Like any advancement in technology, ultimately we need to get over the fear and move on with our lives.
+
+* a.i. exists. So what now?
+* α.i. exists. So what now?
+
+Indeed, what now?
+
+What are the pros of AI? What are the cons of AI? How are companies abusing copyright? What protections could art have? What protections should art have? Where should the boundaries of AI be? What does this mean for a country, company, culture, or us as a species?
+
+Image by VideoMaker44 from https://pixnio.com/media/illustration-graphic-humanoid-alien-artificial-intelligence
+
+---
+
 # CPUs, GPUs, and TPU's -- Google's end game plan to own you.
 
 Friday, May 19, 2017
