@@ -1,5 +1,136 @@
 # Michaelangel007's Blog
 
+# Pros and Cons of Minecraft and Clones
+
+Minecraft is an extremely popular voxel game due to the four pillars it is built upon:
+
+1. Ease-of-Use.  Left-click = break, Right-click = place.
+2. Survive
+3. Explore
+4. Crafting and "Block" Palette
+
+I would add an implicit 5th reason.
+
+5. Old Skool Textures
+
+Let's analyze:
+
+* Strengths and Weakness of Minecraft
+* Why so many clones "fail" and niche categories
+
+
+# Not so Ease-of-Use.
+
+Minecraft doesn't get any simpler then:
+
+* left-click subtract
+* right-click add
+
+Vintage Story turns simple tasks into extremely complicated ones.  While this is not necessary "bad per say, popularity will always favor simpler compared to complex. i.e. Arcade and Simcade racing games are FAR more popular then a "proper" SimRacing one. Same for military simulations such as the excellent Operation Flashpoint: Dragon Rising.
+
+
+# Tedious Survival
+
+Minecraft's survival is extremely easy to manage: Hunger and Stamina.
+
+Canonical survival games make survival tedious by tracking water and heat exhaustion. I don't find Green Hill, The Forest, or Stardew Valley fun. Partially because some games (including Minecraft, Icarus, The Forest) micromanage when you can sleep.
+
+Conan Exiles seems to have a good balance.  You need to manage heat in the Volcano, and cold in the Snow. It is enough to care about (be prepared) but doesn't bog one down.
+
+Minecraft's sleep design is also bad. Terraria does this well by letting you:
+
+* click on the pillow to update your spawn
+* click on the sheets to sleep
+
+In multiplayer Minecraft's default of requiring everyone to sleep is horrible. Many multiplayer servers let just 1 person trigger skipping the night.
+
+Multiplayer worlds have fine-grained permissions to minimize griefing.  Relying on mods isn't feasible on console or mobile.
+
+
+# Rewarding Exploration
+
+Procedural Generation "works" for Exploration because
+
+a) it is the "carrot and stick",
+b) replayability.
+
+Unfortunately for Minecraft it doesn't reward the player THAT well compared to other games like Conan Exiles, or Grim Dawn. I blame the lack of two things:
+
+* bad loot
+* lack of pre-fabs (both quantity and quality)
+
+Mojang has attempted to "solve" some of this with Trial Chambers. The problem is the bad itemization and progressions compared to Terraria's depth of progression.
+
+Hytale has done a slightly better job here with pre-fabs. It just needs way more biomes.
+
+Conan Exiles and Satisfactory sets the gold standard here for rewarding the player.
+
+
+# Crafting and "Block" Palette
+
+Minecraft's 3x3 crafting system strength is it's ease of use.
+
+One of the problems is auto-crafting since there is no "filler" or "spacer" block.
+
+Technical redstoner Gnembon joined Mojang and IIRC partially responsible for why we got autocrafters in Minecraft.
+
+One of Minecraft's biggest weaknesses is due to myopic vision:
+
+* No furniture
+* The excuse of "Vertical half slabs would restrict creativity"
+
+First, some Skyblock servers DO implement custom furniture showing there IS a demand for furniture and Mojang has a blind eye towards this. This is one area Conan Exiles does VERY well, and to some degree Valheim. LOTS of stuff to decorate your base with to make it "yours".  Furniture is one of THE things I wish Satisfactory would add.
+
+Second, the Conquest mod shows that block variety IS welcome and appreciated with 45° slopes, vertical ahlf slabs, and many more corner/pipe variations.
+
+The problem is Minecraft does NOT divorce Textures and Geometry so we left waiting for glass stairs and other variations. Terraria does a good job here.
+
+Redstone is a HUGE reason why myself and other Technical Redstoners play Minecraft. SciCraft is the defacto standard for technical builds.
+
+* SciCraft Presents: How Automation Can Enrich Your Game Experience -- https://www.youtube.com/watch?v=816mQFkks1Y
+
+Minecraft's entity performance has long been a sore spot in performance which is why many Skyblock servers use entity grouping so that multiple mobs are "packed" into a single one.  This looses part of the charm of large mob farms but it is a good showcase on how scalability and performance can impact design.
+
+
+# Old Skool Textures
+
+There is a (big?) divide between classic textures (sharp and noisy) and modern (smooth and blurry) Minecraft textures.
+
+I've never found "Hi Res" texture packs (32px, 64px) or "Realistic" texture packs (128px, 256px) to be all that engaging because they lose the "charm" of what the original 16x textures had.  Conversely the simplified 8px low res texture pack loses TOO much details.
+
+Hytale feels WEIRD with 32px textures.
+
+Minecraft texture are Easy to read textures.  Is this maybe because we have "grown up" with them? Maybe.
+
+Many games go with a higher texture detail (32px in Hytale), or extremely noisy textures (Vintage Story).
+
+W.R.T texture color choices and noise.  Maybe it is just personal preference but I find many textures sets to be fugly.  Valheim is a good exception.
+
+Minecraft does an extremely POOR job of color representation. See Gneiss Name's videos:
+
+* Geology and the Munsell Color System -- https://www.youtube.com/watch?v=Io-XayrowBc
+* A perceptual color space in Minecraft (Oklab) -- https://www.youtube.com/watch?v=nJlZT5AE9zY
+
+Related to textures is "granularity" of the world.
+
+Minecraft's 1m3 is perfect IMHO.
+
+Many clones use "sub-voxels" or different scales and they feel "weird" if not down-right tedious.  Trees with their transparent leaves feels good. Having opaque trees composed of 200x200 voxels does not IMHO.
+
+
+# Conclusion
+
+Many Minecraft clones experiment with their own take on the voxel-survive genre. I appreciate them because it gives us "hard data" on what works and what doesn't.  Why some of this is definitely personal preference there is a consensus on the level of granularity, abstraction, realism and feels good.
+
+* 16px textures feels right
+* 1m3 feels right
+* More block variety, especially furniture is needed and appreciated
+* Better color representation across hues is needed
+* Land claims and Permissions are solely needed
+* Mods showcase the potential
+
+===
+
 # Robots, Aliens, and A.I. oh my! How a.i. and α.i. will make A.I. obsolete.
 
 Monday, September 1, 2025
